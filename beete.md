@@ -8,6 +8,8 @@ nav_order: 1
 
 Ein Beilagensalat, der sich gut vorbereiten lässt und besonders zu fettem Fisch wie geräucherter Makrele oder gedämpftem Lachs passt – aber auch zu warm servierten Linsen. Wer den Salat schon einen Tag im Voraus zubereiten möchte, lässt Dill und den Tahin-Joghurt zunächst weg und ergänzt sie erst kurz vor dem Servieren.
 
+![Bete](/daniel-julia/images/rueben.jpeg)
+
 **Für 4 Personen als Beilage**
 
 - 1 kg Rote Bete, sauber gebürstet, ungeschält

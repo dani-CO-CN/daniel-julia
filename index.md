@@ -9,6 +9,8 @@ Salzzitronen (auch **eingelegte Zitronen** oder **Zitronenkonfit** genannt) sind
 
 Das Verfahren stammt ursprünglich aus **Nordafrika**, insbesondere aus **Marokko**, wo Salzzitronen (arabisch *hamed markad* oder *l'hamd markad*) seit Jahrhunderten ein fester Bestandteil der Küche sind. Von dort aus haben sie ihren Weg in die internationale Gastronomie gefunden und werden heute weltweit von Köchinnen und Köchen geschätzt.
 
+![Salzzitronen](/daniel-julia/images/Salzzitronen.jpeg)
+
 ## Herstellung
 
 Die klassische Zubereitung ist denkbar einfach:

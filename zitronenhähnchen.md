@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Zitronenhändl
+title: Zitronenhendl
 nav_order: 3
 ---
 
-## Rezept: Zitronenhändl
+## Rezept: Zitronenhendl
 
 Die Kombination aus Hähnchen, Zitrone und Knoblauch ist ein Klassiker – und das aus gutem Grund: Gebratenes Hähnchen ist eines der unkompliziertesten Gerichte überhaupt, füllt die Küche mit einem verlockenden Duft und kommt praktisch immer gut an. Die Buttermischung lässt sich 4–5 Stunden im Voraus vorbereiten, sodass das Hähnchen kurz vor dem Servieren nur noch in den Ofen geschoben werden muss.
 

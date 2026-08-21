@@ -8,6 +8,8 @@ nav_order: 2
 
 Dieser Salat lässt sich auf zwei Arten zubereiten: schnell und unkompliziert, oder etwas aufwendiger mit selbst eingelegter Melonenrinde als zusätzlicher Garnitur. Wer die Rinde einlegen möchte, findet die Anleitung weiter unten. Die Rinde verleiht dem Salat eine angenehme Adstringenz; dank der eingelegten Zitrone und der Oliven schmeckt der Salat aber auch ohne sie gut. Wer es noch einfacher haben möchte, kann fertig mit Kräutern und Knoblauch eingelegte Oliven aus dem Handel verwenden und diese nur noch mit 50 ml Olivenöl vermischen.
 
+![Wassermelone](/daniel-julia/images/wassermelone.jpeg)
+
 **Für 4–6 Personen**
 
 - 1 kleine Wassermelone (1,6 kg)
