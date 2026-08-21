@@ -2,7 +2,6 @@
 layout: page
 title: Rote Bete
 nav_order: 1
-permalink: /rezepte/beete/
 ---
 
 ## Rezept: Rote Bete aus dem Ofen mit Joghurt und eingelegter Zitrone

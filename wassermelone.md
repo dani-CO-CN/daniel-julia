@@ -2,7 +2,6 @@
 layout: page
 title: Wassermelone & Schafskäse
 nav_order: 2
-permalink: /rezepte/wassermelone/
 ---
 
 ## Rezept: Wassermelone & Schafskäse mit marinierten Oliven und eingelegter Zitrone

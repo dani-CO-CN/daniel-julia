@@ -2,7 +2,6 @@
 layout: page
 title: Zitronenhähnchen
 nav_order: 3
-permalink: /rezepte/zitronenhähnchen.md/
 ---
 
 ## Rezept: Zitronenhähnchen
