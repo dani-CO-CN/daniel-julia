@@ -4,9 +4,9 @@ title: Wassermelone & Schafskäse
 nav_order: 2
 ---
 
-## Rezept: Wassermelone & Schafskäse mit marinierten Oliven und eingelegter Zitrone
+## mit marinierten Oliven und eingelegter Zitrone
 
-Dieser Salat lässt sich auf zwei Arten zubereiten: schnell und unkompliziert, oder etwas aufwendiger mit selbst eingelegter Melonenrinde als zusätzlicher Garnitur. Wer die Rinde einlegen möchte, findet die Anleitung weiter unten. Die Rinde verleiht dem Salat eine angenehme Adstringenz; dank der eingelegten Zitrone und der Oliven schmeckt der Salat aber auch ohne sie gut. Wer es noch einfacher haben möchte, kann fertig mit Kräutern und Knoblauch eingelegte Oliven aus dem Handel verwenden und diese nur noch mit 50 ml Olivenöl vermischen.
+Dieser Salat lässt sich auf zwei Arten zubereiten: schnell und unkompliziert, oder aufwendiger mit selbst eingelegter Melonenrinde als zusätzliche Garnitur. Die Anleitung zum Einlegen der Rinde findet ihr bei Bedarf weiter unten - sie verleith dem Salat eine zusätzliche Geschmacksnote; dank der eingelegten Zitrone und der Oliven schmeckt der Salat aber auch ohne sie gut. Wer es noch einfacher haben möchte, kann fertig mit Kräutern und Knoblauch eingelegte Oliven aus dem Handel verwenden und diese nur noch mit 50 ml Olivenöl vermischen.
 
 ![Wassermelone](/daniel-julia/images/wassermelone.jpeg)
 
@@ -38,7 +38,7 @@ Dieser Salat lässt sich auf zwei Arten zubereiten: schnell und unkompliziert, o
 
 ### Für die eingelegte Melonenrinde (optionale Ergänzung)
 
-Aus der weißen Rinde der Wassermelone lässt sich eine würzig-säuerliche Einlage herstellen, die diesem Salat zusätzliche Textur gibt und außerdem als Basis für eine scharfsaure Wassermelonensuppe dient.
+Aus der weißen Rinde der Wassermelone lässt sich eine würzig-säuerliche Einlage herstellen, die diesem Salat zusätzliche Textur gibt (und natürlich auch anderweitig verwendet werden kann). 
 
 **Einlegeflüssigkeit**
 

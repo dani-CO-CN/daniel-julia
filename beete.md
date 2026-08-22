@@ -4,15 +4,15 @@ title: Rote Bete
 nav_order: 1
 ---
 
-## Rezept: Rote Bete aus dem Ofen mit Joghurt und eingelegter Zitrone
+## aus dem Ofen mit Joghurt und eingelegter Zitrone
 
-Ein Beilagensalat, der sich gut vorbereiten lässt und besonders zu fettem Fisch wie geräucherter Makrele oder gedämpftem Lachs passt – aber auch zu warm servierten Linsen. Wer den Salat schon einen Tag im Voraus zubereiten möchte, lässt Dill und den Tahin-Joghurt zunächst weg und ergänzt sie erst kurz vor dem Servieren.
+Ein Beilagensalat, der sich gut vorbereiten lässt und besonders zu fettem Fisch wie geräucherter Makrele oder gedämpftem Lachs passt – aber auch zu warm servierten Linsen. Wer den Salat schon einen Tag im Voraus zubereiten möchte, lässt Dill und den Tahin-Joghurt vorerst weg und ergänzt sie erst kurz vor dem Servieren.
 
 ![Bete](/daniel-julia/images/rueben.jpeg)
 
 **Für 4 Personen als Beilage**
 
-- 1 kg Rote Bete, sauber gebürstet, ungeschält
+- 1 kg Rote Bete, sauber gebürstet, ungeschält (roh)
 - 2 EL Olivenöl
 - 1½ TL Kreuzkümmelsamen
 - 1 kleine rote Zwiebel, in sehr dünne Ringe geschnitten (100 g)
@@ -26,7 +26,7 @@ Ein Beilagensalat, der sich gut vorbereiten lässt und besonders zu fettem Fisch
 **Zubereitung**
 
 1. Den Backofen auf 220 °C (Umluft) vorheizen.
-2. Die Roten Beten einzeln in Alufolie wickeln, auf ein Backblech setzen und 30–60 Minuten rösten, bis sich eine Messerklinge leicht hineinstechen lässt. Sobald sie abgekühlt genug sind, um sie anzufassen, häuten und in 5 mm dicke Scheiben schneiden. In eine große Schüssel geben.
+2. Die Roten Beten einzeln in Alufolie wickeln, auf ein Backblech setzen und 30–60 Minuten rösten, bis sich eine Messerklinge leicht hineinstechen lässt. Sobald sie abgekühlt genug sind, um sie anzufassen, häuten und in 5 mm dicke Scheiben schneiden. In eine große Schüssel geben. Altnerativ kann natürlich auch vorgegarte Rote Beete verwendet werden, dies verändert allerdings Geschmack und Konsistenz der Beeten im Vergleich zur hier vorgeschlagenen Vorgehensweise.
 3. Das Olivenöl in einer kleinen Pfanne bei mittlerer Temperatur erhitzen und die Kreuzkümmelsamen darin etwa 3 Minuten rösten, bis sie zu hüpfen beginnen. Samen und Öl über die Rote-Bete-Scheiben geben. Zwiebel, eingelegte Zitrone, Zitronensaft, 10 g Dill, 1 TL Salz und 1 Prise frisch gemahlenen Pfeffer hinzufügen, alles gut mischen und auf einer großen Servierplatte anrichten.
 4. Tahin und Joghurt miteinander verrühren und an vier bis fünf Stellen auf die Rote Bete klecksen. Nur ganz leicht unterrühren, sodass Joghurt und Rote Bete kaum vermischt werden. Zum Schluss mit dem restlichen Dill (5 g) bestreuen.
 
